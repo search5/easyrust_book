@@ -6,4 +6,4 @@ file = "src/schema.rs"
 custom_type_derives = ["diesel::query_builder::QueryId", "Clone"]
 
 [migrations_directory]
-dir = "/home/search5/book_d/bookshelf/src-tauri/migrations"
+dir = "/home/search5/easyrust-tauri2/src-tauri/migrations"
